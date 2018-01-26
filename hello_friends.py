@@ -1,0 +1,1 @@
+print('Hello Bill Gates and Steve Jobs!')
